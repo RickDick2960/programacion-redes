@@ -1,6 +1,0 @@
-[
-  {
-    "name": "Ricardo",
-    "email": "jose@riardo.com"
-  }
-]
